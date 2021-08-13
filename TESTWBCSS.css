@@ -1,0 +1,186 @@
+
+    #rec342584010{
+        display:none;  
+    }
+
+    #demo-inf{
+        /*margin: 0 auto;*/
+        /*width: 100%;*/
+        background-color: #dbecff;
+        padding: 95px 0px 75px 0px;
+    }
+
+    #header {
+        font-family: Arial, sans-serif;
+        font-weight: 600;
+        font-size: 34px;
+        color: black;
+    }
+
+    #desc {
+        font-family: Arial, sans-serif;
+        
+        font-size: 24px;
+        color: #6d747d;
+        line-height: 35px;
+    }
+
+    #demo-result{
+        display: none;
+        position: relative;
+        margin-top:15px;
+        width: 450px;
+        height: 600px;
+        margin: 0 auto;
+    }
+        #demo-layout{
+            max-width: 755px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        #desc{
+            margin:15px 0;
+        }
+        #error-msg{
+            margin: 20px 0;
+            color: rgb(173, 21, 21);
+            text-align: center;
+        }
+    
+    
+    #photo-from-wb,
+    #template{
+        
+        position: relative;
+        background-size: cover !important;
+        width: 100%;
+        height: 600px;
+    }
+        #template{
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 1;
+           
+        }
+        
+        #demo-test{
+            width: 256px;
+            height: 57px;
+            color:#ffffff;
+            font-size: 16px;
+            font-weight: 600;
+            background-color:#40a0ff;
+            border-radius:5px; 
+            -moz-border-radius:5px; 
+            -webkit-border-radius:5px;
+            border: none;
+        }
+        
+        #art{
+            width: 168px;
+            height: 47px;
+            line-height: 50px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 25px;
+            border: 1px solid #40a0ff;
+            vertical-align: middle;
+            text-align: center;
+        }
+        
+
+
+        #txt1 {
+            width: 203px;
+            height: 47px;
+            line-height: 50px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 25px;
+            border: 1px solid #40a0ff;
+            vertical-align: middle;
+            text-align: center;
+            margin-bottom: 3px;
+        }
+
+        #txt3 {
+            width: 203px;
+            height: 47px;
+            line-height: 50px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 25px;
+            border: 1px solid #40a0ff;
+            vertical-align: middle;
+            text-align: center;
+            margin-bottom: 3px;
+        }
+
+        #txt2 {
+            position: absolute;
+            left: 0;
+            top: 230px;
+            /*border: 1px solid red;*/
+            width: 150px;
+            height: 50px;
+            color: red;
+            font-size: 22px;
+            font-weight: 600;
+            text-align: center;
+            padding: 10px;
+
+        }
+
+#txt4 {
+            position: absolute;
+            left: 276px;
+            top: 527px;
+            /*border: 1px solid red;*/
+            width: 150px;
+            height: 50px;
+            color: red;
+            font-size: 22px;
+            font-weight: 600;
+            text-align: center;
+            padding: 10px;
+        }
+
+        form {
+            width: 225px;
+            /*height: 190px;*/
+            /*border: 1px solid black;*/
+            margin-right: 250px;
+            margin-top: -230px;
+            padding-left: 0px;
+            float: right;
+            display: flex;
+            flex-direction: column;
+        }
+        #btn {
+            width: 225px;
+            height: 57px;
+            color:#ffffff;
+            font-size: 16px;
+            font-weight: 600;
+            background-color:#40a0ff;
+            border-radius:5px; 
+            -moz-border-radius:5px; 
+            -webkit-border-radius:5px;
+            border: none;
+            margin-bottom: 10px;
+        }
+
+        #btn2 {
+            width: 225px;
+            height: 57px;
+            color:#ffffff;
+            font-size: 16px;
+            font-weight: 600;
+            background-color:#40a0ff;
+            border-radius:5px; 
+            -moz-border-radius:5px; 
+            -webkit-border-radius:5px;
+            border: none;
+            margin-bottom: 10px;
+        }

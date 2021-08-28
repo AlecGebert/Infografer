@@ -37,6 +37,7 @@
             max-width: 755px;
             margin: 0 auto;
             text-align: center;
+           
         }
         #desc{
             margin:15px 0;
@@ -75,6 +76,7 @@
             -moz-border-radius:5px; 
             -webkit-border-radius:5px;
             border: none;
+            
         }
         
         #art{
@@ -92,7 +94,7 @@
 
 
         #txt1 {
-            width: 203px;
+            max-width: 203px;
             height: 47px;
             line-height: 50px;
             padding: 5px 10px;
@@ -105,7 +107,7 @@
         }
 
         #txt3 {
-            width: 203px;
+            max-width: 203px;
             height: 47px;
             line-height: 50px;
             padding: 5px 10px;
@@ -147,18 +149,19 @@
         }
 
         form {
-            width: 225px;
+            max-width: 200px;
             /*height: 190px;*/
             /*border: 1px solid black;*/
-            margin-right: 250px;
+            margin-right: 3%;
+            padding-left: 5%;
             margin-top: -230px;
-            padding-left: 0px;
+            
             float: right;
             display: flex;
             flex-direction: column;
         }
         #btn {
-            width: 225px;
+            max-width: 225px;
             height: 57px;
             color:#ffffff;
             font-size: 16px;
@@ -172,7 +175,7 @@
         }
 
         #btn2 {
-            width: 225px;
+            max-width: 225px;
             height: 57px;
             color:#ffffff;
             font-size: 16px;
